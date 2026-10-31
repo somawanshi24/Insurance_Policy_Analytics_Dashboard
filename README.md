@@ -102,4 +102,4 @@ An insurance company holds **5,000 customers and 5,000 policies**. Management ne
 ## 👩‍💻 Author
 
 **Neha Somawanshi**
-[LinkedIn](https://www.linkedin.com/in/nehasomawanshi791378308) | [GitHub](https://github.com/somawanshi24) | nehausomawanshi@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nehasomawanshi791378308) | [GitHub](https://github.com/somawanshi24) | nehausomawanshi@gmail.com |https://somawanshi24.github.io/
