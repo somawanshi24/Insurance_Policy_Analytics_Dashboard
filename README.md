@@ -12,7 +12,6 @@ An interactive Power BI dashboard that turns raw insurance policy data into clea
 |----------|--------------|
 | ![Overview](images/Overview.png) | ![Key Insights](images/Key-Insights.png) |
 
-*(Add your two screenshots to an `images/` folder with these names.)*
 
 ---
 
